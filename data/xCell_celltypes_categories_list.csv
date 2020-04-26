@@ -1,0 +1,68 @@
+index,plot.id,desc,category
+1,aDC,aDC,Myeloids
+2,Adipocytes,Adipocytes,Stroma_Cells
+3,Astrocytes,Astrocytes,Others
+4,B.cells,B-cells,Lymphoids
+5,Basophils,Basophils,Myeloids
+6,CD4..memory.T.cells,CD4+ memory T-cells,Lymphoids
+7,CD4..naive.T.cells,CD4+ naive T-cells,Lymphoids
+8,CD4..T.cells,CD4+ T-cells,Lymphoids
+9,CD4..Tcm,CD4+ Tcm,Lymphoids
+10,CD4..Tem,CD4+ Tem,Lymphoids
+11,CD8..naive.T.cells,CD8+ naive T-cells,Lymphoids
+12,CD8..T.cells,CD8+ T-cells,Lymphoids
+13,CD8..Tcm,CD8+ Tcm,Lymphoids
+14,CD8..Tem,CD8+ Tem,Lymphoids
+15,cDC,cDC,Lymphoids
+16,Chondrocytes,Chondrocytes,Stroma_Cells
+17,Class.switched.memory.B.cells,Class-switched memory B-cells,Lymphoids
+18,CLP,Common lymphoid progenitor,Stem_Cells
+19,CMP,Common myeloid progenitor,Stem_Cells
+20,DC,DC,Myeloids
+21,Endothelial.cells,Endothelial cells,Stroma_Cells
+22,Eosinophils,Eosinophils,Myeloids
+23,Epithelial.cells,Epithelial cells,Others
+24,Erythrocytes,Erythrocytes,Stem_Cells
+25,Fibroblasts,Fibroblasts,Stroma_Cells
+26,GMP,Granulocyte-macrophage progenitor,Stem_Cells
+27,Hepatocytes,Hepatocytes,Others
+28,HSC,Hematopoietic stem cells,Stem_Cells
+29,iDC,iDC,Myeloids
+30,Keratinocytes,Keratinocytes,Others
+31,ly.Endothelial.cells,Lymphatic endothelial cells,Stroma_Cells
+32,Macrophages,Macrophages,Myeloids
+33,Macrophages.M1,Macrophages M1,Myeloids
+34,Macrophages.M2,Macrophages M2,Myeloids
+35,Mast.cells,Mast cells,Myeloids
+36,Megakaryocytes,Megakaryocytes,Stem_Cells
+37,Melanocytes,Melanocytes,Others
+38,Memory.B.cells,Memory B-cells,Lymphoids
+39,MEP,Megakaryocyte-erythroid progenitor,Stem_Cells
+40,Mesangial.cells,Mesangial cells,Others
+41,Monocytes,Monocytes,Myeloids
+42,MPP,Multipotent progenitors,Stem_Cells
+43,MSC,Mesenchymal stem cells,Stroma_Cells
+44,mv.Endothelial.cells,Microvascular endothelial cells,Stroma_Cells
+45,Myocytes,Myocytes,Stroma_Cells
+46,naive.B.cells,naive B-cells,Lymphoids
+47,Neurons,Neurons,Others
+48,Neutrophils,Neutrophils,Myeloids
+49,NK.cells,NK cells,Lymphoids
+50,NKT,NKT,Lymphoids
+51,Osteoblast,Osteoblast,Stroma_Cells
+52,pDC,pDC,Myeloids
+53,Pericytes,Pericytes,Stroma_Cells
+54,Plasma.cells,Plasma cells,Lymphoids
+55,Platelets,Platelets,Stem_Cells
+56,Preadipocytes,Preadipocytes,Stroma_Cells
+57,pro.B.cells,pro B-cells,Lymphoids
+58,Sebocytes,Sebocytes,Others
+59,Skeletal.muscle,Skeletal muscle,Stroma_Cells
+60,Smooth.muscle,Smooth muscle,Stroma_Cells
+61,Tgd.cells,Tgd cells,Lymphoids
+62,Th1.cells,Th1 cells,Lymphoids
+63,Th2.cells,Th2 cells,Lymphoids
+64,Tregs,Tregs,Lymphoids
+65,ImmuneScore,ImmuneScore,
+66,StromaScore,StromaScore,
+67,MicroenvironmentScore,MicroenvironmentScore,
